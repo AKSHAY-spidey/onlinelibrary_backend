@@ -1,0 +1,43 @@
+# Maven target directory
+target/
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.iws
+out/
+
+# VS Code files
+.vscode/
+
+# Bin directory
+bin/
+
+# Mac OS files
+.DS_Store
+
+# Others
+*.swp
+*~
